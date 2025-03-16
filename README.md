@@ -17,4 +17,4 @@ Battery to Motor Driver
 +V - VMT
 GND - GND
 
-NEMA17 Current limit Setting = 0.35A
+DRV8825 Current limit Setting = 0.35A
